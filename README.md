@@ -1,6 +1,6 @@
 # Análise de Corrosão — releases
 
-Instaladores e atualizações do **Análise de Corrosão**, app de desktop da plataforma SimPipe Cloud.
+Instaladores e atualizações da **Análise de Corrosão**, app de desktop da plataforma SimPipe Cloud.
 
 Este repositório não tem código. Ele guarda só os instaladores publicados como *releases*, que
 é de onde os apps instalados buscam as versões novas.
